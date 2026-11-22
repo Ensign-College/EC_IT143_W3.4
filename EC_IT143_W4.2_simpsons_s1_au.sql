@@ -1,0 +1,1 @@
+-- Q: How many total family members are in the Simpsons Family Data table?

@@ -1,5 +1,5 @@
 /*****************************************************************************************************************
-NAME:    EC_IT143_W3.4_xx.sql
+NAME:    EC_IT143_W3.4_au.sql
 PURPOSE: Answering eight AdventureWorks questions across marginal, moderate, increased, and metadata complexity.
 
 MODIFICATION LOG:
